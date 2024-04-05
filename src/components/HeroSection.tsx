@@ -16,10 +16,10 @@ import { Boxes } from './ui/background-boxes'
 function HeroSection() {
   return (
     <div className='flex flex-col lg:flex-row mt-8 mx-4 md:mx-0'>
-      <Spotlight
+   {/**   <Spotlight
         className="-top-40 left-0 md:left-60 md:-top-20"
         fill="cyan"
-      />
+      /> */}
      
       {/** first dev*/}
       
