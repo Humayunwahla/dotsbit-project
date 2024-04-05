@@ -9,7 +9,7 @@ function Team() {
         <div className='flex flex-col lg:flex-row text-center mt-20'>
         <div className='w-1/6 text-left'><h1 className=' aboutH'><p className='font-cocosharp'>Our Team</p></h1></div>
         <div className='lg:w-5/6 text-left mt-6 lg:mt-0'>
-            <p className=' sm:aboutfont'><p className='font-poppins'>We are a diverse creative bunch who are proud of our work, bringing projects to life, and enjoying the clients we work with.</p></p>
+            <p className=' text-xl font-poppins'>We are a diverse creative bunch who are proud of our work, bringing projects to life, and enjoying the clients we work with.</p>
         </div>
      </div>
      <div className='gap-8'>

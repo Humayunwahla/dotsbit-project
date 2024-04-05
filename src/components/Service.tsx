@@ -14,7 +14,7 @@ function Service() {
         <div className='flex flex-col lg:flex-row text-center mt-20'>
         <div className='w-1/6 text-left'><h1 className='font-coco aboutH'><Link href={"/services"}><p className='font-cocosharp'>Services</p></Link></h1></div>
         <div className='lg:w-5/6 text-left mt-6 lg:mt-0'>
-            <p className=' sm:aboutfont sm:text-left text-center'><p className='font-poppins'>We’re a hard working, honest team of skilled designers and developers bringing clarity to brands and adding value to their marketing</p></p>
+            <p className=' text-xl font-poppins sm:text-left text-center'>We’re a hard working, honest team of skilled designers and developers bringing clarity to brands and adding value to their marketing</p>
         </div>
      </div>
      <div className=' mt-10 '>

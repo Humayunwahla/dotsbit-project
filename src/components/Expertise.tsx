@@ -26,7 +26,7 @@ function Expertise() {
             <div className='flex flex-col lg:flex-row text-center lg:mx-[126px] mx-[50px]  '>
         <div className='w-1/6 text-left'><h1 className=' aboutH mt-24'><p className='font-cocosharp'>Expertise</p></h1></div>
         <div className='w-5/6 text-left'>
-            <p className='font-popp sm:aboutfont lg:mt-24 mt-10'><p className='font-poppins'>Our work spans a range of sectors and disciplines and we bring this widespread experience to the table with every project</p></p>
+            <p className='text-xl font-poppins lg:mt-24 mt-10'>Our work spans a range of sectors and disciplines and we bring this widespread experience to the table with every project</p>
         </div>
      </div>
         <div className='flex flex-row slide-track gap-8' >
